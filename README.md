@@ -1,7 +1,7 @@
 ### python start
 
 Download and Install python.exe.
-Type like taht `pipe --version` and set pip paht to system environment variable.
+Type like taht `pipe --version` and set pip path to system environment variable.
 
 ### About Python Module
 
